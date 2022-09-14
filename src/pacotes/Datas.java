@@ -6,7 +6,7 @@ import java.time.format.TextStyle;
 import java.util.Locale;
 
 public class Datas {
-  public void data() {
+  public void test() {
 
     // Olá, {nome}. Hoje é {dia-da-semana}, BOM DIA!
 

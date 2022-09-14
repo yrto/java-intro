@@ -1,7 +1,7 @@
 package pacotes;
 
 public class Loops {
-  public void lacosContados() {
+  public void test() {
 
     // 1 2 3 4 5 ...
 

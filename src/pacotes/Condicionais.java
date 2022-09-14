@@ -1,7 +1,7 @@
 package pacotes;
 
 public class Condicionais {
-  public void cond() {
+  public void test() {
 
     int nota = -1;
     String graduacao;

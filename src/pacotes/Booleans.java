@@ -1,7 +1,7 @@
 package pacotes;
 
 public class Booleans {
-  public void bool() {
+  public void test() {
 
     boolean fimDeSemana = true;
     boolean fazendoSol = true;
@@ -23,11 +23,11 @@ public class Booleans {
     // false && false = false
 
     System.out.println(vamosAPraia);
-    
+
     // operador ? : (ternário)
-    
+
     String mensagem = fimDeSemana ? "É fim de semana" : "Não é fim de semana";
-    
+
     System.out.println(mensagem);
 
   }

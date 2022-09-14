@@ -1,7 +1,7 @@
 package pacotes;
 
 public class Calculos {
-  public void calc() {
+  public void test() {
 
     int a = 3;
     int b = 2;

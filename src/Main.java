@@ -11,12 +11,12 @@ public class Main {
         Datas dataTest = new pacotes.Datas();
         Loops loopTeste = new pacotes.Loops();
 
-        // stringTest.hello();
-        // mathTest.calc();
-        // booleanTest.bool();
-        // condTest.cond();
-        // dataTest.data();
-        loopTeste.lacosContados();
+        // stringTest.test();
+        // mathTest.test();
+        // booleanTest.test();
+        // condTest.test();
+        // dataTest.test();
+        loopTeste.test();
 
     }
 }

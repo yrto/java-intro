@@ -1,7 +1,7 @@
 package pacotes;
 
 public class Strings {
-  public void hello() {
+  public void test() {
 
     String nome = "Carla";
 
