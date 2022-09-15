@@ -1,7 +1,7 @@
 package pacotes;
 
 public class Booleans {
-  public void test() {
+  public static void test() {
 
     boolean fimDeSemana = true;
     boolean fazendoSol = true;
